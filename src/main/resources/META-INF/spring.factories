@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.vbabc.core.UeditorAutoConfiguration,com.vbabc.core.UeditorFileMvcConfiguration
